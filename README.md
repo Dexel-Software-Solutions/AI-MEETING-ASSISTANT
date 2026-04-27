@@ -169,7 +169,7 @@
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/demiyan-dissanayake/ai-meeting-assistant.git
+git clone https://github.com/Dexel-Software-Solutions/AI-MEETING-ASSISTANT.git
 cd ai-meeting-assistant
 ```
 
