@@ -19,6 +19,7 @@ import threading, time, json, os, queue, datetime, math, requests
 import speech_recognition as sr
 from typing import Optional
 
+
 # ── CONFIG ────────────────────────────────────────────────────────
 CFG = {
     "API_KEY":         "",                   # ← Your OpenRouter key
