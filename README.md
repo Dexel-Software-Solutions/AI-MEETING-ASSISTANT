@@ -72,7 +72,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║       AI MEETING ASSISTANT — Compact Overlay Edition            ║
+║       AI MEETING ASSISTANT — Compact Overlay Edition             ║
 ║              Developer: Demiyan Dissanayake                      ║
 ║         Perplexity-style floating notification widget            ║
 ╚══════════════════════════════════════════════════════════════════╝
